@@ -41,7 +41,7 @@ or delete on our side. You can clear all locally stored settings and logs by
 clearing the app's data or uninstalling it.
 
 ## Contact
-Questions: YOUR_EMAIL@example.com
+Questions: jj.rousselet@gmail.com
 
 ---
 
