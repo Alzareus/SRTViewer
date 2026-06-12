@@ -89,4 +89,4 @@ supprimer de notre côté. Vous pouvez effacer les données locales en vidant le
 données de l'application ou en la désinstallant.
 
 ## Contact
-Questions : YOUR_EMAIL@example.com
+Questions : jj.rousselet@gmail.com
